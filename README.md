@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:e05c2c&height=180&section=header&text=Adithya%20Poojary&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Security%20Researcher%20%C2%B7%20AI%20Engineer%20%C2%B7%20Founder&descSize=15&descAlignY=55&descColor=666666&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/adithyapoojary/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://tryhackme.com/p/nullsec0001" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-&nbsp;
-<a href="mailto:nullsec0001@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:thisisadithya07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<a href="https://tryhackme.com/p/nullsec0001" target="_blank">
-  <img src="./assets/tryhackme-badge.png" height="80" alt="TryHackMe Badge"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:0d1b2a,100:00b4d8&height=220&section=header&text=Adithya%20Poojary&fontSize=52&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Security%20Researcher%20%C2%B7%20AI%20Engineer%20%C2%B7%20Founder&descSize=16&descAlignY=58&descAlign=50&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br/>
 
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/adithyapoojary/) &nbsp;&nbsp;·&nbsp;&nbsp; [TryHackMe](https://tryhackme.com/p/nullsec0001) &nbsp;&nbsp;·&nbsp;&nbsp; [nullsec0001@proton.me](mailto:nullsec0001@proton.me) &nbsp;&nbsp;·&nbsp;&nbsp; [thisisadithya07@gmail.com](mailto:thisisadithya07@gmail.com)
+
+</div>
+
+<br/><br/>
+
 ---
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" align="right"/>
+<br/>
+
+<div align="center">
+
+### — Who I Am —
+
+</div>
+
+<br/>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170" align="right"/>
 
 ```bash
 ┌──(nullsec㉿arch)-[~]
@@ -33,97 +35,139 @@
   name        :  Adithya Poojary
   location    :  India
   education   :  BE CSE — AI/ML Specialization, 2nd Year
-  background  :  Cybersecurity since Grade 7
-  currently   :  Founder, AI Security Platform
-                 Undergrad @ AIET
+                 Alva's Institute of Engineering & Technology
+  background  :  Cybersecurity since Grade 7 (age ~12)
+  currently   :  Founder — AI Security Platform (Live)
 ```
 
-I've been breaking and building systems since I was 12. Today I research vulnerabilities, build AI-native security tooling, and am developing a privacy-first, local agentic code auditing platform — while still in my second year of college.
+<br/>
 
-My edge: I approach security problems with an offensive mindset and solve them with AI systems. Most people know one side. I work both.
+I've been breaking and building systems since I was 12. Most people my age are still following tutorials. I've already shipped a production security platform, found vulnerabilities in US government infrastructure, and earned a private invite to Mercedes Benz's managed bug bounty program — all before finishing my second year of college.
 
-**Open to** research collaborations · security consulting · recruiting · enterprise pilots
+I work at the intersection of offensive security and AI. I don't just use AI tools — I build them, harden them, and understand how they fail.
 
-**Business inquiries** nullsec0001@proton.me
+<br/>
+
+> **Open to** &nbsp; Security consulting · Research collaborations · Recruiting · Enterprise pilots
+>
+> **Inquiries** &nbsp; [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
 
 <br clear="right"/>
 
----
-
-<br/>
-
-## Credentials
-
-<br/>
-
-![](https://img.shields.io/badge/Student-BE%20CSE%20%7C%20AI%2FML%20%7C%202nd%20Year-161b22?style=flat-square&logo=googlescholar&logoColor=white)
-![](https://img.shields.io/badge/TryHackMe-Top%206%25%20Globally-212C42?style=flat-square&logo=tryhackme&logoColor=red)
-![](https://img.shields.io/badge/Bug%20Bounty-US%20Gov%20Healthcare%20CMS-161b22?style=flat-square&logo=bugcrowd&logoColor=white)
-![](https://img.shields.io/badge/Mercedes%20Benz-Private%20Program%20Invitee-161b22?style=flat-square&logo=mercedes&logoColor=white)
-![](https://img.shields.io/badge/Founder-AI%20Security%20Platform%20%7C%20In%20Production-161b22?style=flat-square&logo=CircleCI&logoColor=white)
-
 <br/>
 
 ---
 
 <br/>
 
-## Projects
+<div align="center">
+
+### — Credentials —
+
+</div>
 
 <br/>
 
-### ThreatScope &nbsp;—&nbsp; Founder & Lead Engineer
+<div align="center">
 
-`Privacy-First` &nbsp; `Local Agentic AI` &nbsp; `Code Security`
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   TryHackMe  ·  Top 6% Globally                                      ║
+║                                                                      ║
+║   Bug Bounty  ·  US Government Healthcare CMS  ·  Accepted           ║
+║                                                                      ║
+║   Bug Bounty  ·  Mercedes Benz  ·  Private Program  ·  Invite Only   ║
+║                                                                      ║
+║   Founder  ·  AI Security Platform  ·  Live in Production            ║
+║                                                                      ║
+║   Student  ·  BE CSE  ·  AI/ML Specialization  ·  2nd Year           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-A 100% local multi-agent AI code auditing platform. No code leaves the machine — ever. Built to bridge the gap between dumb-but-secure static analyzers and smart-but-invasive cloud LLM scanners.
-
-| Layer | Component | Role |
-|---|---|---|
-| Defense | Security Guard Agent | Pre-flight prompt injection triage |
-| Deterministic | OSV Scanner | Offline CVE matching — PyPI, npm, Go, Maven, Rust |
-| Deterministic | Regex / API Tools | Hardcoded secret and endpoint extraction |
-| Probabilistic | Summarizer → Syntax → Logic → Orchestrator | Staged multi-agent AI analysis |
-| Presentation | HTML Reporter | Visual dashboard with code health scores |
-
-> Live in production — active pilot processing thousands of untrusted code submissions daily.
->
-> Pilot and partnership inquiries: nullsec0001@proton.me
-
-![](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/CrewAI-161b22?style=flat-square&logo=semanticweb&logoColor=white)
-![](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white)
-![](https://img.shields.io/badge/asyncio-161b22?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Jinja2-161b22?style=flat-square&logo=jinja&logoColor=white)
+</div>
 
 <br/>
 
----
-
-### [ScribbleFlow](https://github.com/NullSecurity07/ScribbleFlow) &nbsp;—&nbsp; Creator
-
-`AI Automation` &nbsp; `Local LLMs` &nbsp; `Content Pipelines`
-
-End-to-end blog automation: topic → web research → LLM drafting → SEO-optimized markdown. Fully offline via Ollama. Modular by design — `research.py`, `writer.py`, `prompts.py` as discrete units.
-
-![](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white)
-![](https://img.shields.io/badge/BeautifulSoup-161b22?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Markdown-161b22?style=flat-square&logo=markdown&logoColor=white)
+The credentials above are not aspirational. TryHackMe ranks globally across hundreds of thousands of users. The US Government and Mercedes Benz programs are real, accepted, production programs — not CTF exercises. The platform is deployed and processing live traffic. All of this happened before my 19th birthday.
 
 <br/>
 
 ---
 
-### [WR4TH](https://github.com/NullSecurity07/WR4TH) &nbsp;—&nbsp; Red Team Research
+<br/>
 
-`Windows Internals` &nbsp; `AV Evasion` &nbsp; `Offensive Tradecraft`
+<div align="center">
 
-Documented research into Windows Defender evasion. Cross-layer delivery chain (Python → PowerShell → Batch), out-of-band SMTP exfiltration, and AMSI bypass analysis with full detection and mitigation writeup.
+### — Projects —
 
-![](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PowerShell-161b22?style=flat-square&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Windows%20Internals-161b22?style=flat-square&logo=windows&logoColor=white)
+</div>
+
+<br/>
+
+#### ThreatScope &nbsp;·&nbsp; Founder & Lead Engineer
+
+> Privacy-First &nbsp;·&nbsp; Local Agentic AI &nbsp;·&nbsp; Code Security &nbsp;·&nbsp; **Live in Production**
+
+The problem: modern code security tools are either *dumb but private* (static linters) or *smart but invasive* (cloud LLMs that read your proprietary code). No good middle ground existed.
+
+ThreatScope is that middle ground — a 100% local, multi-agent AI code auditing platform. Your source code never leaves your machine. It combines deterministic analysis with probabilistic LLM reasoning to catch what either layer alone misses.
+
+<br/>
+
+| Layer | Component | What it does |
+|:---|:---|:---|
+| Defense | Security Guard Agent | Intercepts adversarial prompt injection payloads before the main run |
+| Deterministic | OSV Dependency Scanner | Offline CVE matching across PyPI, npm, Go, Maven, and Rust simultaneously |
+| Deterministic | Regex / API Tools | Extracts hardcoded secrets, tokens, and exposed endpoints |
+| Probabilistic | Summarizer | AI agent that maps contextual logic and global code intent |
+| Probabilistic | Syntax Reviewer | AI agent auditing modularity, architecture, and code structure |
+| Probabilistic | Logic Analyzer | AI red-teamer targeting business logic flaws and race conditions |
+| Probabilistic | Orchestrator | QC agent assembling final output into a validated Pydantic object |
+| Presentation | HTML Reporter | Auto-generated visual dashboard with code health scores and charts |
+
+<br/>
+
+**Why it matters:** Enterprise code security tools (Veracode, Checkmarx, Snyk) cost $30–100K+ per year and require cloud access. ThreatScope offers comparable AI-powered analysis at zero data-leakage risk — a gap the market hasn't properly addressed.
+
+**Status:** Actively piloting on a live LeetCode-style online compiler platform. Processing thousands of untrusted code submissions daily in production.
+
+`Python` &nbsp;·&nbsp; `CrewAI` &nbsp;·&nbsp; `Ollama (qwen2.5:7b)` &nbsp;·&nbsp; `asyncio` &nbsp;·&nbsp; `Pydantic` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `Flake8` &nbsp;·&nbsp; `ESLint`
+
+> Pilot and partnership inquiries: [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
+
+<br/>
+
+---
+
+<br/>
+
+#### [ScribbleFlow](https://github.com/NullSecurity07/ScribbleFlow) &nbsp;·&nbsp; Creator
+
+> AI Automation &nbsp;·&nbsp; Local LLMs &nbsp;·&nbsp; Content Pipelines
+
+End-to-end blog automation pipeline — from a raw topic to a fully researched, LLM-drafted, SEO-optimized markdown post — entirely from the terminal, entirely offline.
+
+The architecture is modular by design: web research, LLM drafting, and prompt logic are discrete, swappable components. Uses Ollama for local inference so no API key or data exposure is required. Configurable tone, audience, writing style, and word count per run.
+
+`Python` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `BeautifulSoup` &nbsp;·&nbsp; `DuckDuckGo Search` &nbsp;·&nbsp; `Markdown`
+
+<br/>
+
+---
+
+<br/>
+
+#### [WR4TH](https://github.com/NullSecurity07/WR4TH) &nbsp;·&nbsp; Red Team Research
+
+> Windows Internals &nbsp;·&nbsp; AV Evasion Research &nbsp;·&nbsp; Offensive Tradecraft
+
+Documented research into Windows Defender evasion mechanisms at the payload delivery layer. Built to understand how attackers operate — because defenders who haven't studied offense miss entire attack classes.
+
+The project implements a cross-layer delivery chain (Python controller → PowerShell stager → Batch dropper), an out-of-band SMTP exfiltration channel, and a persistent SSH access mechanism. The accompanying writeup covers AMSI internals, detection logic, bypass techniques, and mitigation recommendations from both attacker and defender perspectives.
+
+`Python` &nbsp;·&nbsp; `PowerShell` &nbsp;·&nbsp; `Windows Internals` &nbsp;·&nbsp; `AMSI` &nbsp;·&nbsp; `Batch`
 
 > For educational and authorized red team use only.
 
@@ -133,43 +177,21 @@ Documented research into Windows Defender evasion. Cross-layer delivery chain (P
 
 <br/>
 
-## Stack
+<div align="center">
+
+### — Stack —
+
+</div>
 
 <br/>
 
-**Languages**&nbsp;&nbsp;
-![](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/PowerShell-161b22?style=flat-square&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Bash-161b22?style=flat-square&logo=gnubash&logoColor=white)
-![](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=white)
+**Languages** &nbsp;&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PowerShell &nbsp;·&nbsp; Bash &nbsp;·&nbsp; SQL
 
-<br/>
+**AI / ML** &nbsp;&nbsp; Ollama &nbsp;·&nbsp; CrewAI &nbsp;·&nbsp; LLM Pipelines &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; Multi-Agent Systems &nbsp;·&nbsp; RAG
 
-**AI / ML**&nbsp;&nbsp;
-![](https://img.shields.io/badge/Ollama-161b22?style=flat-square&logo=ollama&logoColor=white)
-![](https://img.shields.io/badge/CrewAI-161b22?style=flat-square&logo=semanticweb&logoColor=white)
-![](https://img.shields.io/badge/LLM%20Pipelines-161b22?style=flat-square&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Prompt%20Engineering-161b22?style=flat-square&logo=anthropic&logoColor=white)
-![](https://img.shields.io/badge/Multi--Agent%20Systems-161b22?style=flat-square&logo=databricks&logoColor=white)
+**Security** &nbsp;&nbsp; Burp Suite &nbsp;·&nbsp; Nmap &nbsp;·&nbsp; Metasploit &nbsp;·&nbsp; Ghidra &nbsp;·&nbsp; Wireshark &nbsp;·&nbsp; OSINT
 
-<br/>
-
-**Security**&nbsp;&nbsp;
-![](https://img.shields.io/badge/Burp%20Suite-161b22?style=flat-square&logo=portswigger&logoColor=orange)
-![](https://img.shields.io/badge/Nmap-161b22?style=flat-square&logo=nmap&logoColor=white)
-![](https://img.shields.io/badge/Metasploit-161b22?style=flat-square&logo=metasploit&logoColor=white)
-![](https://img.shields.io/badge/Ghidra-161b22?style=flat-square&logo=nsa&logoColor=white)
-![](https://img.shields.io/badge/Wireshark-161b22?style=flat-square&logo=wireshark&logoColor=white)
-
-<br/>
-
-**Platforms**&nbsp;&nbsp;
-![](https://img.shields.io/badge/Arch%20Linux-161b22?style=flat-square&logo=archlinux&logoColor=white)
-![](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/FFmpeg-161b22?style=flat-square&logo=ffmpeg&logoColor=white)
-![](https://img.shields.io/badge/PyQt5-161b22?style=flat-square&logo=qt&logoColor=white)
+**Platforms** &nbsp;&nbsp; Arch Linux &nbsp;·&nbsp; Git &nbsp;·&nbsp; Docker &nbsp;·&nbsp; PyQt5 &nbsp;·&nbsp; FFmpeg &nbsp;·&nbsp; GeoIP2
 
 <br/>
 
@@ -177,23 +199,54 @@ Documented research into Windows Defender evasion. Cross-layer delivery chain (P
 
 <br/>
 
-## Statistics
+<div align="center">
+
+### — Bug Bounty —
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=NullSecurity07&hide_border=true&background=0d1117&ring=e05c2c&fire=e05c2c&currStreakLabel=ffffff&sideLabels=555555&dates=555555&stroke=161b22&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+| Program | Severity | Status |
+|:---|:---|:---|
+| US Government Healthcare CMS | P5 | Accepted |
+| Mercedes Benz *(Private Program)* | — | Active &nbsp;·&nbsp; Invite Only |
+
+</div>
+
+<br/>
+
+Both of these are real programs with real security teams. The Mercedes program is invitation-only — access is granted based on demonstrated skill and reputation, not open registration.
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### — Statistics —
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NullSecurity07&hide_border=true&background=0a0e17&ring=00b4d8&fire=00b4d8&currStreakLabel=ffffff&sideLabels=555555&dates=555555&stroke=0d1b2a&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NullSecurity07&show_icons=true&bg_color=0d1117&title_color=e05c2c&icon_color=e05c2c&text_color=888888&border_color=161b22&hide_border=false" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSecurity07&layout=compact&bg_color=0d1117&title_color=e05c2c&text_color=888888&border_color=161b22" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NullSecurity07&show_icons=true&bg_color=0a0e17&title_color=00b4d8&icon_color=90e0ef&text_color=888888&border_color=0d1b2a" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSecurity07&layout=compact&bg_color=0a0e17&title_color=00b4d8&text_color=888888&border_color=0d1b2a" height="155"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NullSecurity07&bg_color=0d1117&color=555555&line=e05c2c&point=ffffff&area=true&area_color=e05c2c&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NullSecurity07&bg_color=0a0e17&color=555555&line=00b4d8&point=90e0ef&area=true&area_color=00b4d8&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -203,21 +256,12 @@ Documented research into Windows Defender evasion. Cross-layer delivery chain (P
 
 <br/>
 
-## Bug Bounty
-
-<br/>
-
-| Program | Severity | Status |
-|---|---|---|
-| US Government Healthcare CMS | P5 | Accepted |
-| Mercedes Benz *(Private Program)* | — | Active — Invite Only |
-
-<br/>
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e05c2c,60:161b22,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+*Building at the intersection of offensive security and artificial intelligence.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d1b2a,100:0a0e17&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
