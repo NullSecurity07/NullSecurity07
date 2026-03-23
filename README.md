@@ -1,31 +1,31 @@
 <div align="center">
 
-```
-█████╗ ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗ █████╗
-██╔══██╗██╔══██╗██║╚══██╔══╝██║  ██║╚██╗ ██╔╝██╔══██╗
-███████║██║  ██║██║   ██║   ███████║ ╚████╔╝ ███████║
-██╔══██║██║  ██║██║   ██║   ██╔══██║  ╚██╔╝  ██╔══██║
-██║  ██║██████╔╝██║   ██║   ██║  ██║   ██║   ██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-**`Security Researcher · AI Systems Builder · Founder`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:e05c2c&height=200&section=header&text=Adithya%20Poojary&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20AI%20Engineer%20%C2%B7%20Founder&descSize=16&descAlignY=58&descColor=888888" width="100%"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/adithya-poojary000/" target="_blank">
+  <a href="https://www.linkedin.com/in/adithyapoojary/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tryhackme.com" target="_blank">
+  <a href="https://tryhackme.com/p/nullsec0001" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
-  <a href="mailto:adithya.poojary000@gmail.com">
-    <img src="https://img.shields.io/badge/-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:nullsec0001@proton.me">
+    <img src="https://img.shields.io/badge/-nullsec0001@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  </a>
+  <a href="mailto:thisisadithya07@gmail.com">
+    <img src="https://img.shields.io/badge/-thisisadithya07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/nullsec0001.png" alt="TryHackMe Badge"/>
 
 </div>
 
 ---
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" align="right"/>
 
 ```bash
 ┌──(nullsec㉿arch)-[~]
@@ -35,17 +35,19 @@
   location    : India
   role        : Offensive Security Researcher & AI Engineer
   education   : BE CSE — AI/ML Specialization (2nd Year)
-  background  : Hacking since Grade 7
-  status      : Building @ ThreatScope  [ STEALTH MODE 🔒 ]
+  background  : Cybersecurity since Grade 7
+  currently   : Building an AI-native security platform
 ```
 
-I've been breaking and building systems since I was 12. Today I research vulnerabilities, build AI-native security tooling, and am growing a **privacy-first, local agentic code auditing platform** into a company.
+I've been breaking and building systems since I was 12. Today I research vulnerabilities, build AI-native security tooling, and am developing a **privacy-first, local agentic code auditing platform** from the ground up.
 
-My edge: I approach security problems with an offensive mindset and solve them with AI. Most people know one side. I work both.
+My edge: I approach security problems with an offensive mindset and solve them with AI systems. Most people know one side. I work both.
 
 > 💼 **Open to:** research collaborations · security consulting · recruiting conversations · enterprise pilots
 >
-> 📬 Interested in ThreatScope? Reach out via the contact link above.
+> 📬 **Business & partnership inquiries:** nullsec0001@proton.me
+
+<br clear="right"/>
 
 ---
 
@@ -54,31 +56,43 @@ My edge: I approach security problems with an offensive mindset and solve them w
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_6%25_Globally-212C42?style=flat-square&logo=tryhackme&logoColor=red)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-US_Gov_Healthcare_CMS-22272e?style=flat-square&logo=bugcrowd&logoColor=white)
 ![Mercedes](https://img.shields.io/badge/Mercedes_Benz-Private_Program_Invitee-22272e?style=flat-square&logo=mercedes&logoColor=white)
-![Founder](https://img.shields.io/badge/Founder-AI_Security_Platform_%5BSTEALTH%5D-22272e?style=flat-square&logo=github&logoColor=white)
+![Founder](https://img.shields.io/badge/Founder-AI_Security_Platform-22272e?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 🏗️ Projects
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🔒  ThreatScope                              [ STEALTH MODE ]  │
-│      Privacy-first · Local Agentic AI · Code Security           │
-│      Status : Live pilot — production deployment active         │
-│      Inquiries : adithya.poojary000@gmail.com                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="160" align="right"/>
 
-100% local multi-agent AI code auditing. No code leaves your machine — ever. Combines deterministic SAST with probabilistic LLM reasoning, offline CVE scanning across 5 ecosystems, and a prompt injection defense layer. Already running in production.
+### 🔐 ThreatScope — Founder & Lead Engineer
+> Privacy-First · Local Agentic AI · Code Security
 
-> Reach out if you're interested in a pilot, partnership, or acquisition conversation.
+A professional-grade, 100% local multi-agent AI code auditing platform. No code leaves your machine — ever. Bridges the gap between dumb-but-secure static analyzers and smart-but-invasive cloud LLM scanners.
+
+- 🤖 **Multi-Agent Architecture** — Summarizer → Syntax Reviewer → Logic Analyzer → Orchestrator in staged sequence
+- 🛡️ **Prompt Injection Defense** — Pre-flight triage agent + randomized XML sandbox delimiters per run
+- 📦 **Offline OSV Scanner** — CVE matching across PyPI, npm, Go, Maven, Rust — zero internet required
+- 📊 **HTML Dashboard** — Auto-generated visual security report with code health scores and metrics
+- ⚡ **Smart Caching** — SHA-256 directory hashing to skip redundant scans
+
+> 🟢 Live in production — active pilot on a real-world online compiler platform processing thousands of untrusted code submissions daily.
+>
+> Interested in a pilot or partnership? → nullsec0001@proton.me
+
+![Python](https://img.shields.io/badge/Python-22272e?style=flat-square&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-22272e?style=flat-square&logo=semanticweb&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-22272e?style=flat-square&logo=ollama&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-22272e?style=flat-square&logo=jinja&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-22272e?style=flat-square&logo=python&logoColor=white)
+
+<br clear="right"/>
 
 ---
 
 ### ✍️ [ScribbleFlow](https://github.com/NullSecurity07/ScribbleFlow)
 > AI Automation · Local LLMs · Content Pipelines
 
-End-to-end blog automation: topic → live web research → LLM drafting → SEO-optimized markdown. Fully offline-capable via Ollama, cleanly modular architecture (`research.py` · `writer.py` · `prompts.py`).
+End-to-end blog automation: topic → live web research → LLM drafting → SEO-optimized markdown. Fully offline-capable via Ollama, cleanly modular architecture.
 
 ![Python](https://img.shields.io/badge/Python-22272e?style=flat-square&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-22272e?style=flat-square&logo=ollama&logoColor=white)
@@ -177,10 +191,4 @@ Documented red team research into Windows Defender evasion mechanisms. Cross-lay
 
 ---
 
-<div align="center">
-
-```
-[ Building at the intersection of offensive security and AI ]
-```
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e05c2c,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
