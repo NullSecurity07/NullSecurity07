@@ -8,7 +8,21 @@
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/adithyapoojary/) &nbsp;&nbsp;·&nbsp;&nbsp; [TryHackMe](https://tryhackme.com/p/nullsec0001) &nbsp;&nbsp;·&nbsp;&nbsp; [nullsec0001@proton.me](mailto:nullsec0001@proton.me) &nbsp;&nbsp;·&nbsp;&nbsp; [thisisadithya07@gmail.com](mailto:thisisadithya07@gmail.com)
+<a href="https://www.linkedin.com/in/adithyapoojary/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=00b4d8"/>
+</a>
+&nbsp;
+<a href="https://tryhackme.com/p/nullsec0001" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-0d1b2a?style=for-the-badge&logo=tryhackme&logoColor=00b4d8"/>
+</a>
+&nbsp;
+<a href="mailto:nullsec0001@proton.me">
+  <img src="https://img.shields.io/badge/nullsec0001@proton.me-0d1b2a?style=for-the-badge&logo=protonmail&logoColor=00b4d8"/>
+</a>
+&nbsp;
+<a href="mailto:thisisadithya07@gmail.com">
+  <img src="https://img.shields.io/badge/thisisadithya07@gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=00b4d8"/>
+</a>
 
 </div>
 
@@ -26,7 +40,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" align="right"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180" align="right"/>
 
 ```bash
 ┌──(nullsec㉿arch)-[~]
