@@ -37,18 +37,18 @@
   education   :  BE CSE — AI/ML Specialization, 2nd Year
                  Alva's Institute of Engineering & Technology
   background  :  Cybersecurity since Grade 7
-  currently   :  Founder — AI Security Platform
+  currently   :  Founder — AI Security Platform (Live)
 ```
 
 <br/>
 
-Offensive security researcher and AI systems builder. I've been doing this since I was 12.
+Offensive security researcher and AI systems builder based in India. I've been doing this since I was 12 — long before it became a career path.
 
-Working at the intersection of security and AI — building tools that don't exist yet, finding vulnerabilities in systems that assume they're safe.
+I work at the intersection of security and AI: building local-first AI tooling, researching vulnerabilities across web and application layers, and currently developing an agentic code auditing platform that's already running in production.
 
 <br/>
 
-**Open to** &nbsp; security consulting · research · recruiting · enterprise pilots
+**Open to** &nbsp; security consulting · research collaborations · recruiting · enterprise pilots
 
 **Inquiries** &nbsp; [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
 
@@ -106,7 +106,9 @@ Working at the intersection of security and AI — building tools that don't exi
 
 `Local Agentic AI` &nbsp;·&nbsp; `Code Security` &nbsp;·&nbsp; `Privacy-First`
 
-100% local multi-agent AI code auditing. Source code never leaves the machine.
+A 100% local multi-agent AI code auditing platform. Source code never leaves the machine — built specifically for teams and companies who can't afford to send proprietary code to external APIs.
+
+The platform runs a layered analysis pipeline combining deterministic tools (linters, dependency scanners, secret detectors) with a probabilistic multi-agent AI crew that reasons about business logic, architecture, and race conditions — things static analysis fundamentally cannot catch.
 
 <br/>
 
@@ -118,16 +120,16 @@ Working at the intersection of security and AI — building tools that don't exi
 | Probabilistic | Summarizer | Global code intent and logic mapping |
 | Probabilistic | Syntax Reviewer | Architecture and modularity analysis |
 | Probabilistic | Logic Analyzer | Business logic flaws and race condition detection |
-| Probabilistic | Orchestrator | Final output assembly and validation |
-| Presentation | HTML Reporter | Visual dashboard with code health scores |
+| Probabilistic | Orchestrator | Final output assembly and Pydantic validation |
+| Presentation | HTML Reporter | Visual dashboard with code health scores and charts |
 
 <br/>
 
-Active pilot — live online compiler platform, thousands of submissions daily.
+Currently in an active pilot on a live online compiler platform, processing thousands of untrusted code submissions daily.
 
-`Python` &nbsp;·&nbsp; `CrewAI` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `asyncio` &nbsp;·&nbsp; `Pydantic` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `Flake8` &nbsp;·&nbsp; `ESLint`
+`Python` &nbsp;·&nbsp; `CrewAI` &nbsp;·&nbsp; `Ollama (qwen2.5:7b)` &nbsp;·&nbsp; `asyncio` &nbsp;·&nbsp; `Pydantic` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `Flake8` &nbsp;·&nbsp; `ESLint`
 
-Inquiries: [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
+> Pilot and partnership inquiries: [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
 
 <br/>
 
@@ -139,9 +141,11 @@ Inquiries: [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
 
 `AI Automation` &nbsp;·&nbsp; `Local LLMs` &nbsp;·&nbsp; `Content Pipelines`
 
-Terminal-based blog automation — topic to SEO-optimized markdown, fully offline via Ollama. Modular pipeline: `research.py` · `writer.py` · `prompts.py`.
+Terminal-based blog automation pipeline. Given a topic, tone, audience, and word count — it researches the web, drafts sections using a local LLM, runs SEO enhancement, and exports clean markdown. Entirely offline via Ollama, no API key required.
 
-`Python` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `BeautifulSoup` &nbsp;·&nbsp; `DuckDuckGo Search`
+Architecture is modular by design — `research.py`, `writer.py`, and `prompts.py` are discrete, independently swappable units. The prompt layer is separated from the execution layer intentionally, making model-swapping a one-line config change.
+
+`Python` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `BeautifulSoup` &nbsp;·&nbsp; `DuckDuckGo Search` &nbsp;·&nbsp; `Markdown`
 
 <br/>
 
@@ -153,7 +157,9 @@ Terminal-based blog automation — topic to SEO-optimized markdown, fully offlin
 
 `Windows Internals` &nbsp;·&nbsp; `AV Evasion` &nbsp;·&nbsp; `Offensive Tradecraft`
 
-Research into Windows Defender evasion at the payload delivery layer. Cross-layer chain: Python controller → PowerShell stager → Batch dropper. Out-of-band SMTP exfiltration. AMSI bypass analysis with detection and mitigation writeup.
+Documented research into Windows Defender evasion at the payload delivery layer. Implements a cross-layer delivery chain — Python controller, PowerShell stager, Batch dropper — with an out-of-band SMTP exfiltration channel for credential delivery and persistent SSH-based remote access.
+
+The accompanying writeup covers AMSI internals, how Defender's behavioural detection works, what the bypass exploits, and mitigation recommendations from both sides of the attack.
 
 `Python` &nbsp;·&nbsp; `PowerShell` &nbsp;·&nbsp; `AMSI` &nbsp;·&nbsp; `Batch`
 
