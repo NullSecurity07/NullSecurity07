@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/nullsec0001.png" alt="TryHackMe Badge"/>
+[![TryHackMe](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.thm.api%2Fapi%2Fuser%2Fbadge%2Fnullsec0001&style=for-the-badge)](https://tryhackme.com/p/nullsec0001)
 
 </div>
 
@@ -36,10 +36,11 @@
   role        : Offensive Security Researcher & AI Engineer
   education   : BE CSE — AI/ML Specialization (2nd Year)
   background  : Cybersecurity since Grade 7
-  currently   : Building an AI-native security platform
+  currently   : Founder — AI-native security platform
+                2nd Year Undergrad @ AIET
 ```
 
-I've been breaking and building systems since I was 12. Today I research vulnerabilities, build AI-native security tooling, and am developing a **privacy-first, local agentic code auditing platform** from the ground up.
+I've been breaking and building systems since I was 12. Today I research vulnerabilities, build AI-native security tooling, and am developing a **privacy-first, local agentic code auditing platform** from the ground up — while still in my second year of college.
 
 My edge: I approach security problems with an offensive mindset and solve them with AI systems. Most people know one side. I work both.
 
@@ -53,10 +54,11 @@ My edge: I approach security problems with an offensive mindset and solve them w
 
 ## ⚡ Credentials
 
+![Student](https://img.shields.io/badge/Student-BE_CSE_%7C_AI%2FML_Spec._2nd_Year-22272e?style=flat-square&logo=googlescholar&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_6%25_Globally-212C42?style=flat-square&logo=tryhackme&logoColor=red)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-US_Gov_Healthcare_CMS-22272e?style=flat-square&logo=bugcrowd&logoColor=white)
 ![Mercedes](https://img.shields.io/badge/Mercedes_Benz-Private_Program_Invitee-22272e?style=flat-square&logo=mercedes&logoColor=white)
-![Founder](https://img.shields.io/badge/Founder-AI_Security_Platform-22272e?style=flat-square&logo=github&logoColor=white)
+![Founder](https://img.shields.io/badge/Founder-AI_Security_Platform_(In_Production)-22272e?style=flat-square&logo=rocket&logoColor=white)
 
 ---
 
@@ -67,7 +69,7 @@ My edge: I approach security problems with an offensive mindset and solve them w
 ### 🔐 ThreatScope — Founder & Lead Engineer
 > Privacy-First · Local Agentic AI · Code Security
 
-A professional-grade, 100% local multi-agent AI code auditing platform. No code leaves your machine — ever. Bridges the gap between dumb-but-secure static analyzers and smart-but-invasive cloud LLM scanners.
+A professional-grade, 100% local multi-agent AI code auditing platform built while in undergrad. No code leaves your machine — ever. Bridges the gap between dumb-but-secure static analyzers and smart-but-invasive cloud LLM scanners.
 
 - 🤖 **Multi-Agent Architecture** — Summarizer → Syntax Reviewer → Logic Analyzer → Orchestrator in staged sequence
 - 🛡️ **Prompt Injection Defense** — Pre-flight triage agent + randomized XML sandbox delimiters per run
