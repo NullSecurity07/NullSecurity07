@@ -1,145 +1,221 @@
 <div align="center">
 
 ```
-███╗   ██╗██╗   ██╗██╗     ██╗      ███████╗███████╗ ██████╗
-████╗  ██║██║   ██║██║     ██║      ██╔════╝██╔════╝██╔════╝
-██╔██╗ ██║██║   ██║██║     ██║      ███████╗█████╗  ██║
-██║╚██╗██║██║   ██║██║     ██║      ╚════██║██╔══╝  ██║
-██║ ╚████║╚██████╔╝███████╗███████╗ ███████║███████╗╚██████╗
-╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝ ╚══════╝╚══════╝ ╚═════╝
+ ██████╗ ███████╗ █████╗ ██████╗███████╗██╗   ██╗███████╗
+ ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝╚██╗ ██╔╝██╔════╝
+ ██║  ██║█████╗  ███████║██║  ██║█████╗   ╚████╔╝ █████╗
+ ██║  ██║██╔══╝  ██╔══██║██║  ██║██╔══╝    ╚██╔╝  ██╔══╝
+ ██████╔╝███████╗██║  ██║██████╔╝███████╗   ██║   ███████╗
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝   ╚═╝   ╚══════╝
 ```
 
-### Adithya Poojary
-**Offensive Security Researcher · AI Systems Builder · Founder @ ThreatScope**
-
-*Building at the intersection of cybersecurity and artificial intelligence.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-poojary000/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_6%25-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adithya-poojary000/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  </a>
+  <a href="https://github.com/NullSecurity07/ThreatScope" target="_blank">
+    <img src="https://img.shields.io/badge/ThreatScope-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## whoami
+<h2 align="center">👤 About Me</h2>
 
-```bash
-$ cat /etc/adithya/profile.conf
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right" style="margin-left: 15px;" />
 
-[identity]
-role        = Security Researcher & AI Engineer
-location    = India
-education   = BE CSE (AI/ML Specialization) — 2nd Year
-experience  = Cybersecurity since Grade 7
+<p>
+  Hey! I'm <strong>Adithya Poojary</strong> — a security researcher, AI systems builder, and founder based in India.
+  <br/><br/>
+  I've been doing cybersecurity since <strong>7th grade</strong>, long before it was a career plan. Today I research vulnerabilities, build AI-native security tooling, and am growing <strong>ThreatScope</strong> — a privacy-first, local agentic code auditing platform — into a company.
+  <br/><br/>
+  My edge: I approach security with an offensive mindset and solve it with AI systems. Most people in this space know one side. I work both.
+</p>
 
-[credentials]
-tryhackme   = Top 6% globally
-bug_bounty  = Accepted finds: US Government Healthcare CMS (P5)
-programs    = Invited — Private Mercedes Managed Bug Bounty
-speciality  = Offensive Security · AI-Powered Tooling · OSINT
-```
+<br/>
 
-I've been breaking and building systems since I was 12. Today I research vulnerabilities, build AI-native security tooling, and am growing **ThreatScope** — a privacy-first, local agentic code auditing platform — into a company.
+📍 **India** &nbsp;|&nbsp; 🎓 **BE CSE — AI/ML Specialization, 2nd Year** &nbsp;|&nbsp; 🏴 **Cybersecurity since Grade 7**
 
-My edge: I approach security problems with an offensive mindset and solve them with AI systems. Most people in this space know one side. I work on both.
+<br/>
 
 ---
 
-## 🏗️ Featured Projects
+<h2 align="center">🏆 Credentials</h2>
 
-### [ThreatScope](https://github.com/NullSecurity07/ThreatScope) — *Founder & Lead Engineer*
+<div align="center">
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_6%25_Globally-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-US_Gov_Healthcare_CMS-000000?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Mercedes](https://img.shields.io/badge/Mercedes_Benz-Private_Program_Invitee-silver?style=for-the-badge&logo=mercedes&logoColor=black)
+![Startup](https://img.shields.io/badge/Founder-ThreatScope_(Live_Pilot)-000000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">🏗️ Featured Projects</h2>
+
+<br/>
+
+### 🔐 [ThreatScope](https://github.com/NullSecurity07/ThreatScope) — Founder & Lead Engineer
+
 > **Privacy-First · Local Agentic AI · Code Security**
 
-A professional-grade, 100% local multi-agent AI code auditing platform. No code leaves your machine — ever.
+A professional-grade, 100% local multi-agent AI code auditing platform. No code leaves your machine — ever. Bridges the gap between dumb-but-secure static analyzers and smart-but-invasive cloud LLM scanners.
 
-- **Multi-Agent Architecture** — Specialized CrewAI agents (Summarizer → Syntax Reviewer → Logic Analyzer → Orchestrator) run in staged sequence, each enriching context for the next
-- **Defense-in-Depth Prompt Injection Guard** — Pre-flight triage agent + randomized XML sandbox delimiters on every run to neutralize adversarial code payloads
-- **Offline OSV Dependency Scanner** — Simultaneous CVE matching across PyPI, npm, Go (mod), Maven, and Rust (Cargo) with zero internet dependency
-- **Hybrid Analysis** — Deterministic linting (Flake8, ESLint) combined with probabilistic LLM reasoning catches what either layer alone misses
-- **Powered by** `qwen2.5:7b` via Ollama · CrewAI · Python asyncio · Jinja2 HTML reporting
+- 🤖 **Multi-Agent Crew** — Summarizer → Syntax Reviewer → Logic Analyzer → Orchestrator in staged sequence
+- 🛡️ **Prompt Injection Defense** — Pre-flight triage agent + randomized XML sandbox delimiters per run
+- 📦 **Offline OSV Scanner** — CVE matching across PyPI, npm, Go, Maven, Rust simultaneously — zero internet required
+- 📊 **HTML Dashboard** — Auto-generated visual security report with code health scores and metrics
+- ⚡ **Smart Caching** — SHA-256 directory hashing to skip redundant scans
 
-> 🟢 **Live in production** — Active pilot securing a real-world online compiler platform, processing thousands of untrusted code submissions daily.
+> 🟢 **Live in production** — Active pilot on a real-world online compiler platform processing thousands of untrusted code submissions daily.
 
-`Python` `CrewAI` `Ollama` `LLM` `Multi-Agent` `SAST` `AppSec` `Privacy`
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat&logo=semanticweb&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-000000?style=flat&logo=jinja&logoColor=white)
+![Flake8](https://img.shields.io/badge/Flake8-000000?style=flat&logo=python&logoColor=white)
 
 ---
 
-### [ScribbleFlow](https://github.com/NullSecurity01/ScribbleFlow) — *Creator*
+### ✍️ [ScribbleFlow](https://github.com/NullSecurity07/ScribbleFlow) — Creator
+
 > **AI Automation · Local LLMs · Content Pipelines**
 
-End-to-end blog automation pipeline: topic → live web research → LLM drafting → SEO-optimized markdown. Fully offline-capable via Ollama.
+End-to-end blog automation: topic → live web research → LLM drafting → SEO-optimized markdown. Fully offline-capable, fully modular.
 
-- Modular pipeline architecture (research, writing, SEO as separate concerns)
-- Local LLM inference — no API key, no data leaving your machine
-- Configurable tone, audience, style, and word count per run
-- BeautifulSoup web scraping + DuckDuckGo research layer
+- 🔎 Live research via DuckDuckGo + BeautifulSoup scraping
+- 🧠 Local LLM inference via Ollama — no API key, no data leaving your machine
+- 📐 Modular architecture: `research.py`, `writer.py`, `prompts.py` cleanly separated
+- 🎛️ Configurable tone, audience, style, and word count per run
 
-`Python` `Ollama` `DeepSeek` `BeautifulSoup` `LLM Pipelines` `Automation`
-
----
-
-### [WR4TH](https://github.com/NullSecurity01/WR4TH) — *Creator*
-> **Offensive Security · Windows Internals · AV Evasion**
-
-A Linux-controlled, network-based remote access framework for Windows environments — built to understand and demonstrate Windows Defender evasion techniques.
-
-- Cross-layer payload delivery: Python controller + PowerShell stager + Batch dropper
-- Out-of-band SMTP exfiltration channel via Mailtrap
-- Persistent SSH-based remote access with file upload/download/execute
-- Built for authorized red team and educational lab environments
-
-`Python` `PowerShell` `Batch` `AV Evasion` `RAT` `Red Team` `Windows Internals`
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=flat&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ---
 
-## 🔬 Research & Bug Bounty
+### 🔴 [WR4TH](https://github.com/NullSecurity07/WR4TH) — Red Team Research
 
-| Program | Finding | Severity | Status |
+> **Windows Internals · AV Evasion Research · Offensive Tradecraft**
+
+A documented research project into Windows Defender evasion mechanisms — built to understand how attackers operate at the payload delivery and detection-bypass layer.
+
+- 🪟 Cross-layer delivery chain: Python controller + PowerShell stager + Batch dropper
+- 🛡️ Defender evasion via PS execution policy manipulation and payload encoding
+- 📡 Out-of-band SMTP exfiltration channel for post-exploitation communication
+- 📖 Includes technical analysis of AMSI internals, detection logic, and defensive mitigations
+
+> ⚠️ Educational and authorized red team use only.
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=flat&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_Internals-000000?style=flat&logo=windows&logoColor=white)
+
+---
+
+<h2 align="center">⚙️ Technologies</h2>
+
+<div align="center">
+
+<h3>Languages</h3>
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql&logoColor=white)
+
+<h3>AI / ML</h3>
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat&logo=semanticweb&logoColor=white)
+![LLM Pipelines](https://img.shields.io/badge/LLM_Pipelines-000000?style=flat&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat&logo=databricks&logoColor=white)
+
+<h3>Security</h3>
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat&logo=portswigger&logoColor=orange)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat&logo=nsa&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=flat&logo=duckduckgo&logoColor=white)
+
+<h3>Tools & Platforms</h3>
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=flat&logo=archlinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=flat&logo=ffmpeg&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-000000?style=flat&logo=qt&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-000000?style=flat&logo=leaflet&logoColor=white)
+
+</div>
+
+---
+
+<h2 align="center">📈 Statistics</h2>
+
+<div align="center">
+
+<h3>Contribution Streak</h3>
+
+<img
+  src="https://streak-stats.demolab.com?user=NullSecurity07&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=NullSecurity07&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Adithya's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=NullSecurity07&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=333333"
+  alt="GitHub Stats"
+  height="165"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSecurity07&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"
+  alt="Top Languages"
+  height="165"
+/>
+
+</div>
+
+---
+
+<h2 align="center">🔬 Research & Bug Bounty</h2>
+
+<div align="center">
+
+| Program | Type | Severity | Status |
 |---|---|---|---|
-| US Government Healthcare CMS | Vulnerability disclosure | P5 | ✅ Accepted |
-| Mercedes (Private Program) | Active — Invite Only | — | 🔒 Private |
+| US Government Healthcare CMS | Web Vulnerability | P5 | ✅ Accepted |
+| Mercedes Benz (Private) | Managed Bug Bounty | — | 🔒 Active — Invite Only |
 
----
-
-## ⚙️ Technical Stack
-
-```
-Languages     Python · PowerShell · Bash · JavaScript · SQL
-AI/ML         Ollama · CrewAI · LLM Pipelines · Prompt Engineering
-              Local Inference · Multi-Agent Systems · RAG
-Security      OSINT · Web App Pentesting · Network Security
-              AV Evasion · SAST · Threat Modeling · Bug Bounty
-Tools         Burp Suite · Nmap · Metasploit · Ghidra · Wireshark
-              FFmpeg · GeoIP2 · Flake8 · ESLint
-Platforms     Arch Linux (daily driver) · Windows · TryHackMe
-              HackerOne · GitHub Actions
-Hardware      Lenovo IdeaPad · Ryzen 7 · RTX 3050 · 32GB RAM
-```
-
----
-
-## 📈 Focus Areas (2025–2026)
-
-- **AI Security** — Adversarial ML, prompt injection, LLM pipeline hardening
-- **ThreatScope** — Growing from pilot to product: CI/CD integrations, multi-language support, team features
-- **Bug Bounty** — Expanding scope: web, API, and AI-surface targets
-- **Research** — Publishing offensive security and AI/security intersection writeups
-
----
-
-## 🧠 Philosophy
-
-> *"Security is a systems problem. AI is a reasoning layer. The people who understand both will define what the next decade looks like."*
-
-I build tools I'd want to exist. I research what I'd want to understand. I don't separate the offensive and defensive mindsets — both make you sharper.
+</div>
 
 ---
 
 <div align="center">
 
-**Open to:** Research collaborations · Security consulting · Early-stage advisory · Recruiting conversations
-
-*Always reading. Always building.*
+*Building at the intersection of offensive security and artificial intelligence.*
+<br/><br/>
+**Open to:** research collaborations &nbsp;·&nbsp; security consulting &nbsp;·&nbsp; recruiting conversations &nbsp;·&nbsp; ThreatScope pilots
 
 </div>
