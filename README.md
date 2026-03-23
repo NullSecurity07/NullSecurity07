@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170" align="right"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160" align="right"/>
 
 ```bash
 ┌──(nullsec㉿arch)-[~]
@@ -36,21 +36,21 @@
   location    :  India
   education   :  BE CSE — AI/ML Specialization, 2nd Year
                  Alva's Institute of Engineering & Technology
-  background  :  Cybersecurity since Grade 7 (age ~12)
-  currently   :  Founder — AI Security Platform (Live)
+  background  :  Cybersecurity since Grade 7
+  currently   :  Founder — AI Security Platform
 ```
 
 <br/>
 
-I've been breaking and building systems since I was 12. Most people my age are still following tutorials. I've already shipped a production security platform, found vulnerabilities in US government infrastructure, and earned a private invite to Mercedes Benz's managed bug bounty program — all before finishing my second year of college.
+Offensive security researcher and AI systems builder. I've been doing this since I was 12.
 
-I work at the intersection of offensive security and AI. I don't just use AI tools — I build them, harden them, and understand how they fail.
+Working at the intersection of security and AI — building tools that don't exist yet, finding vulnerabilities in systems that assume they're safe.
 
 <br/>
 
-> **Open to** &nbsp; Security consulting · Research collaborations · Recruiting · Enterprise pilots
->
-> **Inquiries** &nbsp; [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
+**Open to** &nbsp; security consulting · research · recruiting · enterprise pilots
+
+**Inquiries** &nbsp; [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
 
 <br clear="right"/>
 
@@ -73,24 +73,20 @@ I work at the intersection of offensive security and AI. I don't just use AI too
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   TryHackMe  ·  Top 6% Globally                                      ║
+║   TryHackMe           ·   Top 6% Globally                           ║
 ║                                                                      ║
-║   Bug Bounty  ·  US Government Healthcare CMS  ·  Accepted           ║
+║   US Gov Healthcare   ·   Bug Bounty  ·  Accepted                   ║
 ║                                                                      ║
-║   Bug Bounty  ·  Mercedes Benz  ·  Private Program  ·  Invite Only   ║
+║   Mercedes Benz       ·   Private Bug Bounty  ·  Invite Only        ║
 ║                                                                      ║
-║   Founder  ·  AI Security Platform  ·  Live in Production            ║
+║   ThreatScope         ·   Founder  ·  Live in Production            ║
 ║                                                                      ║
-║   Student  ·  BE CSE  ·  AI/ML Specialization  ·  2nd Year           ║
+║   AIET                ·   BE CSE  ·  AI/ML  ·  2nd Year             ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
-
-<br/>
-
-The credentials above are not aspirational. TryHackMe ranks globally across hundreds of thousands of users. The US Government and Mercedes Benz programs are real, accepted, production programs — not CTF exercises. The platform is deployed and processing live traffic. All of this happened before my 19th birthday.
 
 <br/>
 
@@ -108,34 +104,30 @@ The credentials above are not aspirational. TryHackMe ranks globally across hund
 
 #### ThreatScope &nbsp;·&nbsp; Founder & Lead Engineer
 
-> Privacy-First &nbsp;·&nbsp; Local Agentic AI &nbsp;·&nbsp; Code Security &nbsp;·&nbsp; **Live in Production**
+`Local Agentic AI` &nbsp;·&nbsp; `Code Security` &nbsp;·&nbsp; `Privacy-First`
 
-The problem: modern code security tools are either *dumb but private* (static linters) or *smart but invasive* (cloud LLMs that read your proprietary code). No good middle ground existed.
-
-ThreatScope is that middle ground — a 100% local, multi-agent AI code auditing platform. Your source code never leaves your machine. It combines deterministic analysis with probabilistic LLM reasoning to catch what either layer alone misses.
+100% local multi-agent AI code auditing. Source code never leaves the machine.
 
 <br/>
 
-| Layer | Component | What it does |
+| Layer | Component | Function |
 |:---|:---|:---|
-| Defense | Security Guard Agent | Intercepts adversarial prompt injection payloads before the main run |
-| Deterministic | OSV Dependency Scanner | Offline CVE matching across PyPI, npm, Go, Maven, and Rust simultaneously |
-| Deterministic | Regex / API Tools | Extracts hardcoded secrets, tokens, and exposed endpoints |
-| Probabilistic | Summarizer | AI agent that maps contextual logic and global code intent |
-| Probabilistic | Syntax Reviewer | AI agent auditing modularity, architecture, and code structure |
-| Probabilistic | Logic Analyzer | AI red-teamer targeting business logic flaws and race conditions |
-| Probabilistic | Orchestrator | QC agent assembling final output into a validated Pydantic object |
-| Presentation | HTML Reporter | Auto-generated visual dashboard with code health scores and charts |
+| Defense | Security Guard Agent | Pre-flight prompt injection triage |
+| Deterministic | OSV Scanner | Offline CVE matching — PyPI, npm, Go, Maven, Rust |
+| Deterministic | Regex / API Tools | Hardcoded secret and endpoint extraction |
+| Probabilistic | Summarizer | Global code intent and logic mapping |
+| Probabilistic | Syntax Reviewer | Architecture and modularity analysis |
+| Probabilistic | Logic Analyzer | Business logic flaws and race condition detection |
+| Probabilistic | Orchestrator | Final output assembly and validation |
+| Presentation | HTML Reporter | Visual dashboard with code health scores |
 
 <br/>
 
-**Why it matters:** Enterprise code security tools (Veracode, Checkmarx, Snyk) cost $30–100K+ per year and require cloud access. ThreatScope offers comparable AI-powered analysis at zero data-leakage risk — a gap the market hasn't properly addressed.
+Active pilot — live online compiler platform, thousands of submissions daily.
 
-**Status:** Actively piloting on a live LeetCode-style online compiler platform. Processing thousands of untrusted code submissions daily in production.
+`Python` &nbsp;·&nbsp; `CrewAI` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `asyncio` &nbsp;·&nbsp; `Pydantic` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `Flake8` &nbsp;·&nbsp; `ESLint`
 
-`Python` &nbsp;·&nbsp; `CrewAI` &nbsp;·&nbsp; `Ollama (qwen2.5:7b)` &nbsp;·&nbsp; `asyncio` &nbsp;·&nbsp; `Pydantic` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `Flake8` &nbsp;·&nbsp; `ESLint`
-
-> Pilot and partnership inquiries: [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
+Inquiries: [nullsec0001@proton.me](mailto:nullsec0001@proton.me)
 
 <br/>
 
@@ -145,13 +137,11 @@ ThreatScope is that middle ground — a 100% local, multi-agent AI code auditing
 
 #### [ScribbleFlow](https://github.com/NullSecurity07/ScribbleFlow) &nbsp;·&nbsp; Creator
 
-> AI Automation &nbsp;·&nbsp; Local LLMs &nbsp;·&nbsp; Content Pipelines
+`AI Automation` &nbsp;·&nbsp; `Local LLMs` &nbsp;·&nbsp; `Content Pipelines`
 
-End-to-end blog automation pipeline — from a raw topic to a fully researched, LLM-drafted, SEO-optimized markdown post — entirely from the terminal, entirely offline.
+Terminal-based blog automation — topic to SEO-optimized markdown, fully offline via Ollama. Modular pipeline: `research.py` · `writer.py` · `prompts.py`.
 
-The architecture is modular by design: web research, LLM drafting, and prompt logic are discrete, swappable components. Uses Ollama for local inference so no API key or data exposure is required. Configurable tone, audience, writing style, and word count per run.
-
-`Python` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `BeautifulSoup` &nbsp;·&nbsp; `DuckDuckGo Search` &nbsp;·&nbsp; `Markdown`
+`Python` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `BeautifulSoup` &nbsp;·&nbsp; `DuckDuckGo Search`
 
 <br/>
 
@@ -161,15 +151,13 @@ The architecture is modular by design: web research, LLM drafting, and prompt lo
 
 #### [WR4TH](https://github.com/NullSecurity07/WR4TH) &nbsp;·&nbsp; Red Team Research
 
-> Windows Internals &nbsp;·&nbsp; AV Evasion Research &nbsp;·&nbsp; Offensive Tradecraft
+`Windows Internals` &nbsp;·&nbsp; `AV Evasion` &nbsp;·&nbsp; `Offensive Tradecraft`
 
-Documented research into Windows Defender evasion mechanisms at the payload delivery layer. Built to understand how attackers operate — because defenders who haven't studied offense miss entire attack classes.
+Research into Windows Defender evasion at the payload delivery layer. Cross-layer chain: Python controller → PowerShell stager → Batch dropper. Out-of-band SMTP exfiltration. AMSI bypass analysis with detection and mitigation writeup.
 
-The project implements a cross-layer delivery chain (Python controller → PowerShell stager → Batch dropper), an out-of-band SMTP exfiltration channel, and a persistent SSH access mechanism. The accompanying writeup covers AMSI internals, detection logic, bypass techniques, and mitigation recommendations from both attacker and defender perspectives.
+`Python` &nbsp;·&nbsp; `PowerShell` &nbsp;·&nbsp; `AMSI` &nbsp;·&nbsp; `Batch`
 
-`Python` &nbsp;·&nbsp; `PowerShell` &nbsp;·&nbsp; `Windows Internals` &nbsp;·&nbsp; `AMSI` &nbsp;·&nbsp; `Batch`
-
-> For educational and authorized red team use only.
+> Authorized red team and educational use only.
 
 <br/>
 
@@ -185,13 +173,13 @@ The project implements a cross-layer delivery chain (Python controller → Power
 
 <br/>
 
-**Languages** &nbsp;&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; PowerShell &nbsp;·&nbsp; Bash &nbsp;·&nbsp; SQL
+**Languages** &nbsp;&nbsp; Python · JavaScript · PowerShell · Bash · SQL
 
-**AI / ML** &nbsp;&nbsp; Ollama &nbsp;·&nbsp; CrewAI &nbsp;·&nbsp; LLM Pipelines &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; Multi-Agent Systems &nbsp;·&nbsp; RAG
+**AI / ML** &nbsp;&nbsp; Ollama · CrewAI · LLM Pipelines · Prompt Engineering · Multi-Agent Systems · RAG
 
-**Security** &nbsp;&nbsp; Burp Suite &nbsp;·&nbsp; Nmap &nbsp;·&nbsp; Metasploit &nbsp;·&nbsp; Ghidra &nbsp;·&nbsp; Wireshark &nbsp;·&nbsp; OSINT
+**Security** &nbsp;&nbsp; Burp Suite · Nmap · Metasploit · Ghidra · Wireshark · OSINT
 
-**Platforms** &nbsp;&nbsp; Arch Linux &nbsp;·&nbsp; Git &nbsp;·&nbsp; Docker &nbsp;·&nbsp; PyQt5 &nbsp;·&nbsp; FFmpeg &nbsp;·&nbsp; GeoIP2
+**Platforms** &nbsp;&nbsp; Arch Linux · Git · Docker · PyQt5 · FFmpeg · GeoIP2
 
 <br/>
 
@@ -212,13 +200,9 @@ The project implements a cross-layer delivery chain (Python controller → Power
 | Program | Severity | Status |
 |:---|:---|:---|
 | US Government Healthcare CMS | P5 | Accepted |
-| Mercedes Benz *(Private Program)* | — | Active &nbsp;·&nbsp; Invite Only |
+| Mercedes Benz *(Private Program)* | — | Active · Invite Only |
 
 </div>
-
-<br/>
-
-Both of these are real programs with real security teams. The Mercedes program is invitation-only — access is granted based on demonstrated skill and reputation, not open registration.
 
 <br/>
 
@@ -254,9 +238,9 @@ Both of these are real programs with real security teams. The Mercedes program i
 
 ---
 
-<br/>
-
 <div align="center">
+
+<br/>
 
 *Building at the intersection of offensive security and artificial intelligence.*
 
