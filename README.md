@@ -52,7 +52,7 @@
 
 <br/>
 
-Offensive security researcher and AI systems builder. I've been doing this since I was 12 — long before it became a career path.
+Offensive security researcher and AI systems builder. I started security out of curiosity(and movies) at 12, long before it became a career path.
 
 I work at the intersection of security and AI: building local-first AI tooling, researching vulnerabilities across web and application layers, and developing an agentic code auditing platform already running in production.
 
