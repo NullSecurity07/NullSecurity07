@@ -13,6 +13,8 @@ def pic(stem, alt, width=None, height=None):
 LINKS = [('site', 'Site: adithyapoojary.is-a.dev', SITE), ('linkedin', 'LinkedIn: in/adithyapoojary', 'https://www.linkedin.com/in/adithyapoojary/'),
          ('tryhackme', 'TryHackMe: nullsec0001', 'https://tryhackme.com/p/nullsec0001'), ('email', 'Email: thisisadithya07@gmail.com', 'mailto:thisisadithya07@gmail.com')]
 CASES = [('offscan', 'Offscan: finds security bugs in your code with AI that runs on your own machine'),
+         ('jarvis', 'Jarvis: move notes, 3D models and live windows with your bare hands over a webcam'),
+         ('cubicle', 'Cubicle: a canvas where a founder works with a workforce of AI agents and keeps every decision'),
          ('caliber', "Caliber: BLC's coding and assessment platform, designed and built as lead engineer"),
          ('hackypi', 'HackyPi: a USB test device for authorized penetration tests that ships disarmed'),
          ('deauthreaper', 'Deauth Reaper: a character-driven pwnagotchi for authorized Wi-Fi security practice')]
