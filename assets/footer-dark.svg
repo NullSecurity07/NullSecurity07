@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-label="The ap mark locks on">
 <style>
-.lb{opacity:0;animation:l-in .55s cubic-bezier(.23,1,.32,1) forwards}
+.lb{opacity:0;animation:l-in 6s cubic-bezier(.45,0,.2,1) infinite}
 .lb0{--x:-26px;--y:-26px;animation-delay:0.15s}.lb1{--x:26px;--y:-26px;animation-delay:0.2s}.lb2{--x:26px;--y:26px;animation-delay:0.25s}.lb3{--x:-26px;--y:26px;animation-delay:0.30000000000000004s}
-@keyframes l-in{0%{opacity:0;transform:translate(var(--x),var(--y))}70%{opacity:1;transform:translate(calc(var(--x) * -.08),calc(var(--y) * -.08))}100%{opacity:1;transform:none}}
+@keyframes l-in{0%{opacity:0;transform:translate(var(--x),var(--y));animation-timing-function:cubic-bezier(.23,1,.32,1)}7%{opacity:1;transform:translate(calc(var(--x) * -.08),calc(var(--y) * -.08))}10%,78%{opacity:1;transform:none}94%,100%{opacity:0;transform:translate(calc(var(--x) * .6),calc(var(--y) * .6))}}
 .lg{opacity:0;transform-box:fill-box;transform-origin:center;animation:l-g .4s cubic-bezier(.23,1,.32,1) .6s forwards}
 @keyframes l-g{0%{opacity:0;transform:scale(.94)}100%{opacity:1;transform:none}}
-.lk{animation:l-k .5s steps(2) 1s 2}
-@keyframes l-k{50%{opacity:.25}}
+.lk{animation:l-k 6s linear .15s infinite}
+@keyframes l-k{0%,11%{opacity:1}11.5%,13%{opacity:.25}13.5%,15%{opacity:1}15.5%,17%{opacity:.25}17.5%,100%{opacity:1}}
 .lt{opacity:0;animation:l-t .5s ease 1.2s forwards}@keyframes l-t{to{opacity:1}}
-@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+@media (prefers-reduced-motion: reduce) { * { animation-duration: 1ms !important; animation-delay: 0s !important; animation-iteration-count: 1 !important; animation-fill-mode: forwards !important; } .lb { animation: none !important; opacity: 1; } }
 </style>
 <rect width="1280" height="300" rx="10" fill="#0E0E0E" />
 <g transform="translate(70 40) scale(1.8)"><g class="lk"><path class="lb lb0" d="M8 34V8h26" fill="none" stroke="#FF4A3D" stroke-width="9" /><path class="lb lb1" d="M86 8h26v26" fill="none" stroke="#FF4A3D" stroke-width="9" /><path class="lb lb2" d="M112 86v26H86" fill="none" stroke="#FF4A3D" stroke-width="9" /><path class="lb lb3" d="M34 112H8V86" fill="none" stroke="#FF4A3D" stroke-width="9" /></g>
