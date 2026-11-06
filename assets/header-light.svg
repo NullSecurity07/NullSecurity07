@@ -1,16 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" role="img" aria-label="Header that prints itself">
 <style>
-.k1,.k2{clip-path:inset(0 100% 0 0);animation:k-in .9s cubic-bezier(.23,1,.32,1) forwards}.k2{animation-delay:.45s}.k1{animation-delay:.15s}
+.k1,.k2{clip-path:inset(0 100% 0 0);animation:k-in .8s cubic-bezier(.23,1,.32,1) forwards}.k1{animation-delay:.1s}.k2{animation-delay:.3s}
 @keyframes k-in{to{clip-path:inset(0 0 0 0)}}
-.kd{transform-box:fill-box;transform-origin:center;opacity:0;animation:k-dot .5s cubic-bezier(.23,1,.32,1) 1.25s forwards}
-@keyframes k-dot{0%{opacity:0;transform:translateY(-40px) scale(.6)}70%{opacity:1;transform:translateY(4px) scale(1.15)}100%{opacity:1;transform:none}}
-.kt,.km{opacity:0;animation:k-f .6s ease 1.55s forwards}.km{animation-delay:.05s}
-.kp{opacity:0;animation:k-f 1.2s ease .3s forwards}
-@keyframes k-f{to{opacity:1}}
-.kr{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:k-r 2.2s cubic-bezier(.23,1,.32,1) .2s forwards}
-@keyframes k-r{to{transform:scale(1)}}
-.kw{transform-box:fill-box;transform-origin:center;opacity:0;animation:k-w 1.6s ease-out 1.3s forwards}
-@keyframes k-w{0%{opacity:.9;transform:scale(.2)}100%{opacity:0;transform:scale(1.6)}}
+.kd{transform-box:fill-box;transform-origin:center;opacity:0;animation:k-dot .45s cubic-bezier(.23,1,.32,1) 1s forwards}
+@keyframes k-dot{0%{opacity:0;transform:translateY(-32px) scale(.7)}70%{opacity:1;transform:translateY(3px) scale(1.08)}100%{opacity:1;transform:none}}
+.kw{display:none}
 @media (prefers-reduced-motion: reduce) { * { animation-duration: 1ms !important; animation-delay: 0s !important; animation-iteration-count: 1 !important; animation-fill-mode: forwards !important; } .lb { animation: none !important; opacity: 1; } }
 </style>
 <defs><pattern id="iA" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="2.4" fill="#D7261E" /></pattern>
