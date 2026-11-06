@@ -1,0 +1,43 @@
+name: Check flag
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    if: startsWith(github.event.issue.title, 'flag:')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Check the answer
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TITLE: ${{ github.event.issue.title }}
+          SOLVER: ${{ github.event.issue.user.login }}
+          ISSUE: ${{ github.event.issue.number }}
+          # sha256 of the flag, so the answer is not in this file
+          WANT: ec8584b61afe389d92726fefaf653a8c13a01488f4f4389c2da7caeae9cc65bd
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          answer=$(printf '%s' "${TITLE#flag:}" | tr -d '[:space:]')
+          got=$(printf '%s' "$answer" | sha256sum | cut -d' ' -f1)
+          if [ "$got" != "$WANT" ]; then
+            gh issue comment "$ISSUE" --body "Not this one. The source remembers what the page forgets."
+            gh issue close "$ISSUE" --reason "not planned"
+            exit 0
+          fi
+          python3 tools/halloffame.py README.md "$SOLVER" "$(date -u +%Y-%m-%d)"
+          if ! git diff --quiet README.md; then
+            git commit -am "Flag captured by @$SOLVER"
+            for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
+            [ "$(git rev-parse HEAD)" = "$(git rev-parse @{u})" ] || exit 1
+          fi
+          gh issue comment "$ISSUE" --body "Flag captured. You are in the hall of fame. Say hi: thisisadithya07@gmail.com"
+          gh issue close "$ISSUE" --reason completed
